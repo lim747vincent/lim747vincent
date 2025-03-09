@@ -1,4 +1,7 @@
 # 👋 Hi, I'm Chee Leong!
+
+<img align='right' src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif">
+
 👨‍💻 Software Engineer | Tech Explorer<br>👩🏻‍🎓 Studied Software Engineering at the TARUMT<br>🚀 Turning ideas into reality through code<br>📚 Growth mindset & continuous learning
 
 
