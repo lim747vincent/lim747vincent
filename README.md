@@ -12,25 +12,34 @@
 1. **Bus Real-Time Tracking System Dashboard:** <br>
 A web-based admin panel for managing buses, routes, schedules, drivers, and students. It integrates Google Maps API for route setup, provides data visualization with counters and a schedule calendar, and connects to a Spring Boot backend with Firebase.
 
-2. **Real-Time AI Sign Language Translation Using LSTM and MediaPipe:**<br>
+2. **VisualDNA:** <br>
+A Next.js and Tailwind CSS web platform integrating Replicate AI and Supabase. Features FaceSwap, AI Image Generation, AI Image Editing, Skin Upscaling, and Photo Extension. Deployed on DigitalOcean with Stripe integration for real-time AI-powered image content creation.
+
+3. **JobSea:** <br>
+A Next.js and Tailwind CSS web application with Supabase backend and DigitalOcean deployment. Supports job seekers to search and apply for jobs, and recruiters to post and manage job listings. Integrated Stripe for payments and subscription management.
+
+4. **KIKHOUSE:** <br>
+A Next.js and Tailwind CSS website showcasing agency information with interactive animations using GSAP and Framer Motion. Provides a modern, responsive, and visually engaging experience for visitors.
+
+5. **Real-Time AI Sign Language Translation Using LSTM and MediaPipe:**<br>
 A real-time system translating sign language gestures into text using MediaPipe Holistic for keypoint detection and LSTM for gesture prediction, enabling seamless communication between signers and non-signers.
 
-3. **JobHunt:**<br>
+6. **JobHunt:**<br>
 A Jetpack Compose Kotlin app for job seekers and recruiters. Features job search, applications, and recruiter management with Firebase integration, multi-screen layouts, and dark/light mode support.
 
-4. **Student Registration Management System:**<br>
+7. **Student Registration Management System:**<br>
 A Java-based system using ADTs for student enrollment, course management, and tutorial allocation. Implements Merge Sort for efficient data handling.
    
-5. **BRAINCODE:**<br>
+8. **BRAINCODE:**<br>
 An online learning platform for programming courses. Built with HTML, CSS, and JS, it offers a user-friendly browsing and enrollment experience with personalized recommendations.
 
-6. **Event Management System:**<br>
+9. **Event Management System:**<br>
 A Java-based system for event organizers and attendees. Supports event creation, attendee tracking, supplier management, registration, payments, and notifications.
 
-7. **ABC One Stop Bookstore System:**<br>
+10. **ABC One Stop Bookstore System:**<br>
 A C++ system for browsing, purchasing, and comparing books across bookstores. Includes search by title, author, price, and rating, plus a book gifting feature.
 
-8. **Restaurant POS System:**<br>
+11. **Restaurant POS System:**<br>
 A restaurant management system for orders, payments, and analytics. Uses an Oracle Express database for transaction insights and sales optimization.
 
 
